@@ -26,6 +26,10 @@
 
 </div>
 
+<div align="center">
+<img width="460" height="215" alt="Salt and Sacrifice" src="https://raw.githubusercontent.com/jtkyksdnstyq/salt-and-sacrifice-offline-installer/main/game.jpg" />
+</div>
+
 ---
 
 ## 📖 About Salt and Sacrifice
